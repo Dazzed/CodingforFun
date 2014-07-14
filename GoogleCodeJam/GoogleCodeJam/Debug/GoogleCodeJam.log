@@ -1,0 +1,20 @@
+﻿Build started 4/12/2014 2:47:52 PM.
+     1>Project "C:\Users\Sameep.Leign.000\Documents\Visual Studio 2012\Projects\GoogleCodeJam\GoogleCodeJam\GoogleCodeJam.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt cookieclickeralpha.cpp
+         cookieclickeralpha.cpp
+     1>c:\users\sameep.leign.000\documents\visual studio 2012\projects\googlecodejam\googlecodejam\cookieclickeralpha.cpp(63): warning C4715: 'printcookieclicklogic' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sameep.Leign.000\Documents\Visual Studio 2012\Projects\GoogleCodeJam\Debug\GoogleCodeJam.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sameep.Leign.000\Documents\Visual Studio 2012\Projects\GoogleCodeJam\Debug\GoogleCodeJam.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sameep.Leign.000\Documents\Visual Studio 2012\Projects\GoogleCodeJam\Debug\GoogleCodeJam.lib" /MACHINE:X86 Debug\cookieclickeralpha.obj
+         Debug\magictrick.obj
+         Debug\minscalarproduct.obj
+         Debug\reversewords.obj
+         Debug\Source.obj
+         Debug\storecredit.obj
+         Debug\T9spelling.obj
+         GoogleCodeJam.vcxproj -> C:\Users\Sameep.Leign.000\Documents\Visual Studio 2012\Projects\GoogleCodeJam\Debug\GoogleCodeJam.exe
+     1>Done Building Project "C:\Users\Sameep.Leign.000\Documents\Visual Studio 2012\Projects\GoogleCodeJam\GoogleCodeJam\GoogleCodeJam.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.08
